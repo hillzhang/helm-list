@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - assets/nginx/nginx-0.1.1.tgz
+    - /nginx/nginx-0.1.1.tgz
     version: 0.1.1
 generated: "2023-08-07T16:38:16.116409+08:00"
